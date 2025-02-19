@@ -1,36 +1,41 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dinh Nhu Duc",
+    "label": "Graduate Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nhu_duc.dinh@insa-cvl.fr",
+    "phone": "(+33) 7 52 75 77 20",
+    "url": "https://www.linkedin.com/in/dinh-nhu-duc-6804bb281/",
+    "summary": "A student passionate about AI, Quantum Computing, and Mathematics, exploring the future of Quantum Machine Learning.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "15 Av. du Maréchal Foch",
+      "postalCode": "41000",
+      "city": "Blois",
+      "countryCode": "FR",
+      "region": "Centre-Val de Loire"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "DINH Nhu Duc",
+        "url": "https://www.linkedin.com/in/dinh-nhu-duc-6804bb281/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Quantum AI Lab, Phenikaa University",
+      "location": "Hanoi, Vietnam",
+      "position": "Researcher in Quantum Machine Learning",
+      "url": "https://quantum-ai.io.vn/", 
+      "startDate": "2023-08", 
+      "endDate": "Present",
+      "summary": "Working on Quantum Neural Networks (QNN) for predicting forces in Force Field models. Involved in quantum computing research, applying quantum machine learning techniques to enhance molecular simulations and force prediction accuracy.",
+      "highlights": [
+        "Developed a Quantum Neural Network model for Force Field prediction.",
+        "Collaborated on interdisciplinary research with the physics and AI departments.",
+        "Published paper on QNN applications in computational chemistry."
+      ]
     }
   ],
   "volunteer": [
@@ -46,71 +51,94 @@
     }
   ],
   "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
+  {
+    "institution": "INSA Centre Val de Loire",
+    "location": "Blois, France",
+    "url": "https://www.insa-valdeloire.fr/en/",
+    "area": "Industrial Systems Engineering",
+    "studyType": "Undergraduate",
+    "startDate": "2024-09-01",
+    "endDate": "Present",
+    "score": "N/A",
+    "courses": []
+  },
+  {
+    "institution": "INSA Centre Val de Loire, Campus Hue",
+    "location": "Hue, Vietnam",
+    "url": "https://www.insa-valdeloire.fr/en/",
+    "area": "Preparatory Cycle in Science and Technology for Engineering",
+    "studyType": "Undergraduate",
+    "startDate": "2022-09-01",
+    "endDate": "2024-06-01",
+    "score": "N/A",
+    "courses": []
+  },
+  {
+    "institution": "Vo Nguyen Giap Specialized High School",
+    "location": "Quang Binh, Vietnam",
+    "url": "https://vng.edu.vn/",
+    "area": "Physics Major",
+    "studyType": "High School",
+    "startDate": "2019-08-01",
+    "endDate": "2022-05-01",
+    "score": "N/A",
+    "courses": ["Physics Olympiad (VPhO) 2022 Participant"]
+  }
+]
+,
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  {
+    "title": "Provincial Physics Excellence Competition: Third Prize",
+    "date": "2021-01-01",
+    "awarder": "Provincial Physics Competition",
+    "url": "https://example.com",  
+    "summary": "Awarded Third Prize for outstanding performance in the Provincial Physics Excellence Competition in 2021."
+  },
+  {
+    "title": "National Student Physics Olympiad (SPhO): Second Prize in Physics",
+    "date": "2023-01-01",
+    "awarder": "Vietnam Physics Olympiad Organization",
+    "url": "https://example.com",  
+    "summary": "Awarded Second Prize in both Experimental Physics and Multiple-Choice categories at the National Student Physics Olympiad (SPhO) in 2023."
+  }
+],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  {
+    "name": "QBronze, QNickel: Workshop on Quantum Computing and Programming",
+    "date": "2024-01-01",
+    "issuer": "QWorld",
+    "url": "https://qworld.com",
+    "icon": "fa-solid fa-location-dot"
+  },
+  {
+    "name": "Q-Site Hacks: Certificate of Participation, Q-SITE Hacks 2024",
+    "date": "2024-02-01",
+    "issuer": "Q-Site",
+    "url": "https://q-site.com",
+    "icon": "fa-solid fa-tag"
+  },
+  {
+    "name": "MATLAB Onramp",
+    "date": "2023-05-01",
+    "issuer": "MathWorks",
+    "url": "https://www.mathworks.com/learn/tutorials/matlab-onramp.html",
+    "icon": "fa-solid fa-envelope"
+  },
+  {
+    "name": "Womanium Global Quantum + AI Program 2024",
+    "date": "2024-03-01",
+    "issuer": "Womanium",
+    "url": "https://www.womanium.org",
+    "icon": "fa-solid fa-hashtag"
+  },
+  {
+    "name": "PennyLane Quantum Machine Learning Challenge at the Womanium Global Quantum +AI Program 2024",
+    "date": "2024-03-01",
+    "issuer": "Pennylane",
+    "url": "https://pennylane.ai",
+    "icon": "fa-solid fa-calendar"
+  }
+],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -135,46 +163,145 @@
     }
   ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  {
+    "name": "Programming",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-code",
+    "keywords": [
+      "C++",
+      "Python",
+      "R",
+      "JavaScript",
+      "HTML5",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Technologies",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-tools",
+    "keywords": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Microcontroller programming (PIC 18F4520)"
+    ]
+  },
+  {
+    "name": "Deep Learning Frameworks",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-brain",
+    "keywords": [
+      "Pytorch",
+      "TensorFlow"
+    ]
+  },
+  {
+    "name": "Quantum Frameworks",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-cogs",
+    "keywords": [
+      "Qiskit",
+      "Pennylane"
+    ]
+  },
+  {
+    "name": "Other Libraries",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-laptop-code",
+    "keywords": [
+      "Matplotlib",
+      "Numpy",
+      "Pandas"
+    ]
+  },
+  {
+    "name": "Soft Skills",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-users",
+    "keywords": [
+      "Communication",
+      "Problem Solving",
+      "Teamwork"
+    ]
+  }
+]
+,
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
+  {
+    "language": "Vietnamese",
+    "fluency": "Native speaker",
+    "icon": "fa-solid fa-flag-vn"  
+  },
+  {
+    "language": "Chinese",
+    "fluency": "Beginner",
+    "icon": "fa-solid fa-flag-cn"  
+  },
+  {
+    "language": "French",
+    "fluency": "Intermediate",
+    "icon": "fa-solid fa-flag-fr"  
+  },
+  {
+    "language": "English",
+    "fluency": "Intermediate",
+    "icon": "fa-solid fa-flag-gb"  
+  }
+]
+
+,
   "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  {
+    "name": "Reading Books",
+    "icon": "fa-solid fa-book",
+    "keywords": [
+      "Science",
+      "Literature",
+      "Creativity",
+      "Knowledge Expansion"
+    ]
+  },
+  {
+    "name": "Traveling",
+    "icon": "fa-solid fa-plane",
+    "keywords": [
+      "Different Cultures",
+      "Meeting People",
+      "Exploration"
+    ]
+  },
+  {
+    "name": "Sport",
+    "icon": "fa-solid fa-futbol",
+    "keywords": [
+      "Football",
+      "Swimming",
+      "Teamwork",
+      "Physical Fitness"
+    ]
+  },
+  {
+    "name": "Music",
+    "icon": "fa-solid fa-music",
+    "keywords": [
+      "Flute",
+      "Classical Music",
+      "Relaxation",
+      "Creativity"
+    ]
+  },
+  {
+    "name": "Science and Technology",
+    "icon": "fa-solid fa-flask",
+    "keywords": [
+      "Quantum Mechanics",
+      "Quantum Machine Learning",
+      "AI",
+      "Mathematics"
+    ]
+  }
+],
   "references": [
     {
       "name": "Professor John Doe",
